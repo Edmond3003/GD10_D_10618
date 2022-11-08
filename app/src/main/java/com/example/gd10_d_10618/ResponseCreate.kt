@@ -1,3 +1,5 @@
+package com.example.gd10_d_10618
+
 import com.google.gson.annotations.SerializedName
 
 class ResponseCreate (

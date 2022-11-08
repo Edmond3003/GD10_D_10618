@@ -1,8 +1,5 @@
 package com.example.gd10_d_10618
 
-import MahasiswaData
-import ResponseCreate
-import ResponseDataMahasiswa
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

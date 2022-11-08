@@ -1,8 +1,8 @@
-package fragment
+package com.example.gd10_d_10618.fragment
 
-import MahasiswaAdapter
-import MahasiswaData
-import ResponseDataMahasiswa
+import com.example.gd10_d_10618.MahasiswaAdapter
+import com.example.gd10_d_10618.MahasiswaData
+import com.example.gd10_d_10618.ResponseDataMahasiswa
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -10,6 +10,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.core.view.isVisible
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.gd10_d_10618.RClient
 import com.example.gd10_d_10618.databinding.FragmentDataMahasiswaBinding
 import retrofit2.Call
 import retrofit2.Callback

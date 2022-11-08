@@ -1,9 +1,10 @@
+package com.example.gd10_d_10618
+
 import android.content.Context
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.gd10_d_10618.DetailMahasiswaActivity
 import com.example.gd10_d_10618.databinding.ListDataMahasiswaBinding
 
 class MahasiswaAdapter (

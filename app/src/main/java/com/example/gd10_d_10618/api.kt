@@ -1,3 +1,5 @@
+package com.example.gd10_d_10618
+
 import retrofit2.Call
 import retrofit2.http.*
 

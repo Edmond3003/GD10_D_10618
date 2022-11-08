@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.view.KeyEvent
 import android.view.View
 import com.example.gd10_d_10618.databinding.ActivityMainBinding
-import fragment.DataMahasiswaFragment
+import com.example.gd10_d_10618.fragment.DataMahasiswaFragment
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding : ActivityMainBinding
